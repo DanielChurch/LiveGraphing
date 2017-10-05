@@ -5,7 +5,7 @@
 <p> Write some software for live graphing data read from an Arduino. </p>
 
 <h3> Bar Graph Example </h3>
-<img src = "https://github.com/DanielChurch/CollegeProjects/blob/master/Multidisciplinary%20Engineering/LiveGraphing/Examples/BarGraph.png" />
+<img src = "https://github.com/DanielChurch/LiveGraphing/blob/master/Examples/BarGraph.png" />
 
 <h3> Line Graph </h3>
-<img src = "https://github.com/DanielChurch/CollegeProjects/blob/master/Multidisciplinary%20Engineering/LiveGraphing/Examples/LineGraph.png" />
+<img src = "https://github.com/DanielChurch/LiveGraphing/blob/master/Examples/LineGraph.png" />
